@@ -28,4 +28,4 @@ Tenho minhas origens na linguagem PHP lá no ano de 2005, que foi minha linguage
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-- Ninguém é tão ignorante que não tenha algo a ensinar ou é tão sábio que não tenha algo a aprender.
+> Ninguém é tão ignorante que não tenha algo a ensinar ou é tão sábio que não tenha algo a aprender.
