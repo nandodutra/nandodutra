@@ -4,7 +4,7 @@ Tenho minhas origens na linguagem PHP lá no ano de 2005, que foi minha linguage
 
 [![Twitter Badge](https://img.shields.io/badge/-@nandodutra-4954B8?style=flat-square&labelColor=4954B8&logo=twitter&logoColor=white&link=https://twitter.com/nandodutra)](https://twitter.com/nandodutra) [![Linkedin Badge](https://img.shields.io/badge/-Fernando%20Dutra-4954B8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nandodutra)](https://www.linkedin.com/in/nandodutra) [![Gmail Badge](https://img.shields.io/badge/-fernandodutraneres@gmail.com-4954B8?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fernandodutraneres@gmail.com)](mailto:fernandodutraneres@gmail.com)
 
-## ⚡ Minhas skils
+## ⚡ Minhas skills
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
